@@ -1,4 +1,5 @@
 {
+  "hidesExplorerArrows": true,
   "iconDefinitions": {
     "apache": {
       "iconPath": "./icons/apache.svg"
@@ -493,8 +494,8 @@
     "sdl": {
       "iconPath": "./icons/sdl.svg"
     },
-    "sequalize": {
-      "iconPath": "./icons/sequalize.svg"
+    "sequelize": {
+      "iconPath": "./icons/sequelize.svg"
     },
     "simple-build-tool": {
       "iconPath": "./icons/simple-build-tool.svg"
@@ -522,6 +523,9 @@
     },
     "swift": {
       "iconPath": "./icons/swift.svg"
+    },
+    "swagger": {
+      "iconPath": "./icons/swagger.svg"
     },
     "terminal": {
       "iconPath": "./icons/terminal.svg"
@@ -703,7 +707,7 @@
     ".jshintrc": "javascript-lint",
     ".npmignore": "npm",
     ".npmrc": "npm",
-    ".sequalizerc": "sequalize",
+    ".sequelizerc": "sequelize",
     ".stylelintignore": "stylelint",
     ".stylelintrc": "stylelint",
     ".travis.yml": "travis",
@@ -720,9 +724,9 @@
     "cmakecache.txt": "cmake",
     "cmakelists.txt": "cmake",
     "codecov.yml": "codecov",
-
     "docker-cloud.yml": "docker",
     "docker-compose.yml": "docker",
+    "docker-compose-stage.yml": "docker",
     "dub.json": "d-build",
     "dub.sdl": "d-build",
     "favicon.bmp": "favicon",
@@ -770,6 +774,7 @@
     "readme.md": "md",
     "readme.txt": "md",
     "stylelint.config.js": "stylelint",
+    "swagger.yml": "swagger",
     "tsconfig.app.json": "typescript-config",
     "tsconfig.e2e.json": "typescript-config",
     "tsconfig.json": "typescript-config",
