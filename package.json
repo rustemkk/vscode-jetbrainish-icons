@@ -2,7 +2,7 @@
   "name": "vscode-jetbrainish-icons",
   "displayName": "Jetbrainish Icons",
   "description": "Jetbrainish Icons",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "rustemk",
   "engines": {
     "vscode": "*"
