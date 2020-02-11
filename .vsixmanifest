@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="vscode-jetbrainish-icons" Version="1.0.4" Publisher="rustemk"/>
-    <DisplayName>Webstorm Icon Theme</DisplayName>
-    <Description xml:space="preserve">Webstorm icons</Description>
+    <Identity Language="en-US" Id="vscode-jetbrainish-icons" Version="1.0.5" Publisher="rustemk"/>
+    <DisplayName>Jetbrainish Icons</DisplayName>
+    <Description xml:space="preserve">Jetbrainish Icons</Description>
     <Tags>icon,theme,icon-theme,webstorm,icons</Tags>
     <Categories>Themes,Other</Categories>
     <GalleryFlags>Public</GalleryFlags>

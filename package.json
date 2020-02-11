@@ -2,7 +2,7 @@
   "name": "vscode-jetbrainish-icons",
   "displayName": "Jetbrainish Icons",
   "description": "Jetbrainish Icons",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "publisher": "rustemk",
   "engines": {
     "vscode": "*"
@@ -23,7 +23,7 @@
     "iconThemes": [
       {
         "id": "vscode-jetbrainish-icons",
-        "label": "Webstorm Icons",
+        "label": "Jetbrainish Icons",
         "path": "./vscode-jetbrainish-icons.json"
       }
     ]

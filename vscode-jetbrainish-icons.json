@@ -727,6 +727,7 @@
     "docker-cloud.yml": "docker",
     "docker-compose.yml": "docker",
     "docker-compose-stage.yml": "docker",
+    "docker-compose-production.yml": "docker",
     "dub.json": "d-build",
     "dub.sdl": "d-build",
     "favicon.bmp": "favicon",
