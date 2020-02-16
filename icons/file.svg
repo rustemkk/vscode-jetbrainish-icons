@@ -1,1 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><g fill="#9aa7b0"><path opacity=".7" style="isolation:isolate" d="M6 0L2 4h4V0z"/><path opacity=".7" style="isolation:isolate" d="M7 0v5H2v10h11V0H7z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <path fill="#9aa7b0" opacity=".8" style="isolation: isolate" d="M 12 2 L 4 10 h 8 V 0 z"/>
+  <path fill="#9aa7b0" opacity=".8" style="isolation: isolate" d="M 14 2 v 10 H 4 v 18 h 24 V 2"/>
+</svg>

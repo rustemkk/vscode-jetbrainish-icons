@@ -1,4 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="320">
-  <path fill="none" stroke="rgb(88, 143, 70)" stroke-width="20" d="M50 70h100l40-40h120v220H50z"/>
-  <path fill="rgb(88, 143, 70)" d="M0 160h270l40 100H40z"/>
+  <path fill="none" stroke="#bfbfbf" stroke-width="20" d="M 10 40 h 100 l 40 40 h 120 v 200 H 10 z"/>
+  <path fill="#bfbfbf" d="M -1 290 h 280 l 40 -160 H 39 z"/>
+  <path transform="matrix(1,0.1,-0.3,1,31.2,-40.8)" fill="#f2510c" d="M 265.9 244.5 L 223.7 204.3 L 265.9 165.8 v 78.8 z"/>
+  <path transform="matrix(1,0.1,-0.3,1,31.2,-40.8)" fill="#019144" d="M 275.1 242.5 L 317.3 202.7 L 275.1 164.6 v 77.9 z"/>
 </svg>

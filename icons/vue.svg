@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320"><path fill="#41b883" d="M0 20l160 280L320 20h-70l-90 160L70 20z"/><path fill="#35495e" d="M70 20l90 160 90-160h-60l-30 50-30-50z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <path fill="#9aa7b0" opacity=".8" style="isolation: isolate" d="M 12 2 L 4 10 h 8 V 0 z"/>
+  <path fill="#9aa7b0" opacity=".8" style="isolation: isolate" d="M 14 2 v 10 H 4 v 4 h 24 V 2"/>
+  <path fill="#41b883" opacity=".7" d="M 0 16 h 32 v 14 H 0 z"/>
+  <text fill="#231f20" opacity="0.9" x="1.5" y="28.5" font-family="PragmataPro" font-size="14" font-weight="600" >
+    VUE
+  </text>
+</svg>

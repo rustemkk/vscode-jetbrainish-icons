@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320"><path fill="#ffaf00" d="M50 260L90 0l50 80 20-40 120 220z"/><path fill="#ff7f00" d="M50 260l90-180 50 80z"/><path fill="#ffcf00" d="M50 260L240 60l40 200-120 60z"/></svg>
+<!-- <svg xmlns="http://www.w3.org/2000/svg" width="320" height="320">
+  <path fill="#ffaf00" d="M50 260L90 0l50 80 20-40 120 220z"/>
+  <path fill="#ff7f00" d="M50 260l90-180 50 80z"/>
+  <path fill="#ffcf00" d="M50 260L240 60l40 200-120 60z"/>
+</svg> -->
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <path fill="#9aa7b0" opacity=".8" style="isolation: isolate" d="M 12 2 L 4 10 h 8 V 0 z"/>
+  <path fill="#9aa7b0" opacity=".8" style="isolation: isolate" d="M 14 2 v 10 H 4 v 18 h 24 V 2"/>
+  <g transform="matrix(0.07,0,0,0.07,13.6,12.8)">
+    <path fill="#ffaf00" d="M 32.4 213.8 L 72.4 -46.2 l 50 80 l 20 -40 l 120 220 z"/>
+    <path fill="#ff7f00" d="M 32.4 213.8 l 90 -180 l 50 80 z"/>
+    <path fill="#ffcf00" d="M 32.4 213.8 L 222.4 13.8 l 40 200 l -120 60 z"/>
+  </g>
+</svg>

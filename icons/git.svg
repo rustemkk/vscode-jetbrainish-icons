@@ -1,10 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320">
-  <defs><mask id="a"><path fill="#fff" d="M0 0h320v320H0z"/>
-    <path d="M60 0l160 160m-70-80v150" stroke="#000" stroke-width="20"/>
-      <circle cx="150" cy="90" r="30"/>
-      <circle cx="230" cy="170" r="30"/>
-      <circle cx="150" cy="230" r="30"/>
-    </mask>
-  </defs>
-  <path fill="rgb(255, 94, 53)" stroke="rgb(255, 94, 53)" stroke-linejoin="round" stroke-width="40" mask="url(#a)" d="M160 20l140 140-140 140L20 160z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <path fill="#9aa7b0" opacity=".8" style="isolation: isolate" d="M 12 2 L 4 10 h 8 V 0 z"/>
+  <path fill="#9aa7b0" opacity=".8" style="isolation: isolate" d="M 14 2 v 10 H 4 v 18 h 24 V 2"/>
+  <g transform="matrix(0.13,0,0,0.13,111.1,161.2)">
+    <path fill="rgb(255, 94, 53)" stroke="rgb(255, 94, 53)" stroke-linejoin="round" stroke-width="20" d="M -688.9 -1144.5 l 70 70 l -70 70 l -70 -70 z"/>
+    <path d="M -713 -1135 l 60 60 m -35 -35 v 70" stroke-width="12.5" stroke="#9aa7b0"/>
+    <circle fill="#9aa7b0" cx="-688.9" cy="-1110" r="15"/>
+    <circle fill="#9aa7b0" cx="-648.9" cy="-1071" r="15"/>
+    <circle fill="#9aa7b0" cx="-687.9" cy="-1040" r="15"/>
+  </g>
 </svg>

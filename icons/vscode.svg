@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320"><g fill="#0271bc"><path d="M30 65L0 80v160l30 15z"/><path d="M30 65l290 215-80 40L0 80z"/><path d="M30 255L320 40 240 0 0 240z"/><path d="M240 0l80 40v240l-80 40z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <path fill="#9aa7b0" opacity=".8" style="isolation: isolate" d="M 12 2 L 4 10 h 8 V 0 z"/>
+  <path fill="#9aa7b0" opacity=".8" style="isolation: isolate" d="M 14 2 v 10 H 4 v 18 h 24 V 2"/>
+  <g fill="#0271bc">
+    <path transform="matrix(1.2,0,0,1.1,-1.5,0)" d="M 11.4 13.6 l -1.8 0.9 v 9.6 l 1.8 0.9 z"/>
+    <path transform="matrix(1.2,0,0,1.1,-2.2,0)" d="M 12 13.6 l 17.4 12.9 l -4.8 2.4 L 10.2 14.5 z"/>
+    <path transform="matrix(1.2,0,0,1.1,-2.2,0)" d="M 12 25 l 17.4 -12.9 l -4.8 -2.4 L 10.2 24.1 z"/>
+    <path transform="matrix(1.2,0,0,1.1,-2.9,0)" d="M 25.2 9.7 l 4.8 2.4 v 14.4 l -4.8 2.4 z"/>
+  </g>
+</svg>

@@ -1,4 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="320">
-  <path fill="none" stroke="rgb(88, 143, 70)" stroke-width="20" d="M 50 70 h 100 l 40 -40 h 120 v 220 H 50 z"/>
-  <rect fill="rgb(88, 143, 70)" height="199.5" width="277.5" x="40.5" y="60"/>
+  <path fill="#bfbfbf" mask="url(#a)" d="M 0 70 h 280 v 220 H 0 z"/>
+  <path fill="none" stroke="#bfbfbf" stroke-width="20" d="M 10 80 l 0 -40 h 100 l 40 40"/>
+  <path fill="#f2510c" d="M 200.2 179.1 L 150.2 132.1 L 200.2 87.1 v 92 z"/>
+  <path fill="#019144" d="M 211 179.2 L 262 132.2 L 211 87.2 v 92 z"/>
 </svg>

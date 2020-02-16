@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320"><path fill="#68217a" d="M40 60h280v200H40z"/><path fill="none" stroke="#68217a" stroke-width="20" d="M150 70l40-40h120v40"/><g fill="#fff"><path d="M115 112.5l-15 7.5v80l15 7.5z"/><path d="M115 112.5L260 220l-40 20-120-120z"/><path d="M115 207.5L260 100l-40-20-120 120z"/><path d="M220 80l40 20v120l-40 20z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320">
+  <path fill="#68217a" mask="url(#a)" d="M 0 70 h 280 v 220 H 0 z"/>
+  <path fill="none" stroke="#68217a" stroke-width="20" d="M 10 80 l 0 -40 h 100 l 40 40"/>
+  <g fill="#ffffff">
+    <path d="M 76 132.5 l -15 7.5 v 80 l 15 7.5 z"/>
+    <path d="M 76 132.5 L 221 240 l -40 20 l -120 -120 z"/>
+    <path d="M 76 227.5 L 221 120 l -40 -20 l -120 120 z"/>
+    <path d="M 181 100 l 40 20 v 120 l -40 20 z"/>
+  </g>
+</svg>

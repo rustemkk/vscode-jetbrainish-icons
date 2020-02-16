@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320"><defs><mask id="a"><path fill="#fff" d="M0 0h320v320H0z"/><path d="M120 100l100 60-100 60z"/></mask></defs><circle cx="160" cy="160" r="160" fill="#3f9fbf" mask="url(#a)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <path fill="#9aa7b0" opacity=".8" style="isolation: isolate" d="M 12 2 L 4 10 h 8 V 0 z"/>
+  <path fill="#9aa7b0" opacity=".8" style="isolation: isolate" d="M 14 2 v 10 H 4 v 18 h 24 V 2"/>
+  <g transform="matrix(0.4,0,0,0.4,4.9,12.7)">
+    <path transform="matrix(0.1,0,0,0.1,255.1,174.6)" d="M -1883.9 -1567 c -5.9 -21.9 -23.2 -39.2 -45.1 -45.1 c -40.1 -11 -200.3 -11 -200.3 -11 s -160.3 0 -200.3 10.5 c -21.5 5.9 -39.2 23.6 -45.1 45.5 c -10.5 40.1 -10.5 123.1 -10.5 123.1 s 0 83.5 10.5 123.1 c 5.9 21.9 23.2 39.2 45.1 45.1 c 40.5 11 200.3 11 200.3 11 s 160.3 0 200.3 -10.5 c 21.9 -5.9 39.2 -23.2 45.1 -45.1 c 10.5 -40.1 10.5 -123.1 10.5 -123.1 s 0.4 -83.5 -10.5 -123.6 z m 0 0" fill="#ff0000"/>
+    <path transform="matrix(0.1,0,0,0.1,257.1,174.6)" d="M -2195.7 -1367.1 l 133.3 -76.8 l -133.3 -76.8 z m 0 0" fill="#ffffff"/>
+  </g>
+</svg>

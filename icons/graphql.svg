@@ -1,1 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320" height="320"><defs><circle id="a" r="30"/></defs><g fill="#e535ab"><use x="160" y="30" xlink:href="#a"/><use x="45" y="95" xlink:href="#a"/><use x="45" y="225" xlink:href="#a"/><use x="160" y="290" xlink:href="#a"/><use x="275" y="225" xlink:href="#a"/><use x="275" y="95" xlink:href="#a"/></g><g fill="none" stroke="#e535ab" stroke-width="15"><path d="M160 30L45 95v130l115 65 115-65V95z"/><path d="M160 30L45 225h230z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32">
+  <path fill="#9aa7b0" opacity=".8" style="isolation: isolate" d="M 12 2 L 4 10 h 8 V 0 z"/>
+  <path fill="#9aa7b0" opacity=".8" style="isolation: isolate" d="M 14 2 v 10 H 4 v 18 h 24 V 2"/>
+  <g transform="matrix(0.7,0,0,0.7,7.6,10.6)">
+    <defs transform="matrix(0.1,0,0,0.1,22,35.2)">
+      <circle cx="-27" cy="-215.2" id="a" r="30"/>
+    </defs>
+    <g transform="matrix(0.1,0,0,0.1,23,36)" fill="#e535ab">
+      <use transform="matrix(1,0,0,1,-160,-160)" x="160" y="30" xlink:href="#a"/>
+      <use transform="matrix(1,0,0,1,-160,-160)" x="45" y="95" xlink:href="#a"/>
+      <use transform="matrix(1,0,0,1,-160,-160)" x="45" y="225" xlink:href="#a"/>
+      <use transform="matrix(1,0,0,1,-160,-160)" x="160" y="290" xlink:href="#a"/>
+      <use transform="matrix(1,0,0,1,-160,-160)" x="275" y="225" xlink:href="#a"/>
+      <use transform="matrix(1,0,0,1,-160,-160)" x="275" y="95" xlink:href="#a"/>
+    </g>
+    <g transform="matrix(0.1,0,0,0.1,23,36)" fill="none" stroke="#e535ab" stroke-width="15">
+      <path d="M -27 -345.2 L -142 -280.2 v 130 l 115 65 l 115 -65 V -280.2 z"/>
+      <path d="M -27 -345.2 L -142 -150.2 h 230 z"/>
+    </g>
+  </g>
+</svg>

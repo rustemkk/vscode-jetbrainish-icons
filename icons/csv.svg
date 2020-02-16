@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320"><defs><mask id="a"><path fill="#fff" d="M0 0h320v320H0z"/><g fill="none" stroke="#000" stroke-width="20"><path d="M90 150h140v80H90z"/><path d="M90 190h140v80H90zm70-30v100"/></g></mask></defs><g fill="#5fbf9f"><path d="M180 0l100 100h-40l-60-60zM40 0h140v100H40z"/><path mask="url(#a)" d="M40 100h240v220H40z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <path fill="#9aa7b0" opacity=".8" style="isolation: isolate" d="M 12 2 L 4 10 h 8 V 0 z"/>
+  <path fill="#9aa7b0" opacity=".8" style="isolation: isolate" d="M 14 2 v 10 H 4 v 4 h 24 V 2"/>
+  <path fill="#5fbf9f" opacity=".7" d="M 0 16 h 32 v 14 H 0 z"/>
+  <text fill="#231f20" opacity="0.9" x="1.5" y="28.5" font-family="PragmataPro" font-size="14" font-weight="600" >
+    CSV
+  </text>
+</svg>

@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="#9AA7B0" opacity=".7" d="M1 4h4V0z"/><path d="M5 0h6v8H1V5h5V0z" fill="#9aa7b0" opacity=".7"/><path fill="#ff9292" opacity=".8" d="M0 9h16v7H0z"/><text y="15" font-family="sans-serif" font-size="5.5" font-weight="600" fill="#231f20" opacity=".8">SASS</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <path fill="#9aa7b0" opacity=".8" style="isolation: isolate" d="M 12 2 L 4 10 h 8 V 0 z"/>
+  <path fill="#9aa7b0" opacity=".8" style="isolation: isolate" d="M 14 2 v 10 H 4 v 4 h 24 V 2"/>
+  <path fill="rgb(191, 109, 151)" opacity=".7" d="M 0 16 h 32 v 14 H 0 z"/>
+  <text fill="#231f20" opacity="0.9" x="1.5" y="28.5" font-family="PragmataPro" font-size="14" font-weight="600" >
+    SASS
+  </text>
+</svg>
