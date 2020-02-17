@@ -2,7 +2,7 @@
 
 Forked from [webstorm icons](https://github.com/pmsandhu/webstorm-icons).
 
-First reason to fork - just to remove folder arrows in tree view. Other reasons - bugfixes & my personal improvements.
+Initially forked to remove folder arrows in tree view. Right now this icon pack contains all new / reworked / redrawn icons.
 
 # How to install
 
@@ -16,7 +16,14 @@ Just download file vscode-jetbrainish-icons-X.X.X.vsix and install it manually i
 
 ## How it looks like
 
-![example](https://media.giphy.com/media/XFpKeKKQOfD1pLdIke/giphy.gif)
+![example](https://media.giphy.com/media/h3hqtlNeeoWzxhfgR4/giphy.gif)
+
+#### Version 2.0.1
+
+- Make small color fixes.
+- Add new icon for swagger.
+- Add new main picture.
+- Add new demo gif.
 
 #### Version 2.0.0
 
