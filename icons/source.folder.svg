@@ -1,4 +1,3 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="320">
-  <path fill="rgb(116, 109, 174)" mask="url(#a)" d="M 0 70 h 280 v 220 H 0 z"/>
-  <path fill="none" stroke="rgb(116, 109, 174)" stroke-width="20" d="M 10 80 l 0 -40 h 100 l 40 40"/>
+  <path fill="rgb(116, 109, 174)" stroke="rgb(116, 109, 174)" stroke-width="20" d="M 10 20 h 110 l 40 40 h 150 v 240 H 10 z"/>
 </svg>

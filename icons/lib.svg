@@ -1,10 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="320">
-  <path fill="#bfbfbf" mask="url(#a)" d="M 0 70 h 280 v 90 h -20 v -20 h -60 v 20 h -80 v 130 h -120"/>
-  <path fill="none" stroke="#bfbfbf" stroke-width="20" d="M 10 80 l 0 -40 h 100 l 40 40"/>
+  <path fill="#bfbfbf" stroke="#bfbfbf" stroke-width="20" d="M 10 20 h 110 l 40 40 h 150 v 120 h 0 v -30 h -20 v 0 h -20 v -20 h -80 v 20 h -80 v 150 H 0 z"/>
   <g>
-    <path fill="#9aa7b0" d="M140 180h20v140h-20z"/>
-    <path fill="#6cba4f" d="M180 180h20v140h-20z"/>
-    <path fill="#40b6e0" d="M260 180h20v140h-20z"/>
-    <path fill="#9aa7b0" d="M300 200h20v120h-20zM220 160h20v160h-20z"/>
+    <path fill="#9aa7b0" d="M 140 180 h 20 v 140 h -20 z"/>
+    <path fill="#6cba4f" d="M 180 180 h 20 v 140 h -20 z"/>
+    <path fill="#40b6e0" d="M 260 180 h 20 v 140 h -20 z"/>
+    <path fill="#9aa7b0" d="M 300 200 h 20 v 120 h -20 z M 220 160 h 20 v 160 h -20 z"/>
   </g>
 </svg>

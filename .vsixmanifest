@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="vscode-jetbrainish-icons" Version="2.0.1" Publisher="rustemk"/>
+    <Identity Language="en-US" Id="vscode-jetbrainish-icons" Version="2.0.2" Publisher="rustemk"/>
     <DisplayName>Jetbrainish Icons</DisplayName>
     <Description xml:space="preserve">Jetbrainish Icons</Description>
     <Tags>icon,theme,icon-theme,webstorm,icons</Tags>

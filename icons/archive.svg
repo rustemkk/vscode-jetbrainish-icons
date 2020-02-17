@@ -1,16 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" opacity="0.7">
-  <path fill="#f4af3d" mask="url(#a)" d="M 0 7 h 28 v 22 H 0 z"/>
-  <path fill="none" stroke="#f4af3d" stroke-width="2" d="M 1 8 l 0 -4 h 10 l 4 4"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32">
+  <path fill="#f4af3d" stroke="#f4af3d" stroke-width="2" d="M 1 2 h 11 l 4 4 h 15 v 24 H 1 z"/>
   <g>
-    <rect opacity="0.9" transform="matrix(0.1,0,0,0.1,18.1,10.7)" x="-36.8" y="-29.7" style="fill: #231f20" width="26.1" height="22.6"/>
-    <rect opacity="0.9" transform="matrix(0.1,0,0,0.1,15.5,12.6)" x="-36.8" y="-29.7" style="fill: #231f20" width="26.1" height="22.6"/>
-    <rect opacity="0.9" transform="matrix(0.1,0,0,0.1,18.1,14.5)" x="-36.8" y="-29.7" style="fill: #231f20" width="26.1" height="22.6"/>
-    <rect opacity="0.9" transform="matrix(0.1,0,0,0.1,15.5,16.4)" x="-36.8" y="-29.7" style="fill: #231f20" width="26.1" height="22.6"/>
-    <rect opacity="0.9" transform="matrix(0.1,0,0,0.1,18.1,18.3)" x="-36.8" y="-29.7" style="fill: #231f20" width="26.1" height="22.6"/>
-    <rect opacity="0.9" transform="matrix(0.1,0,0,0.1,15.5,20.2)" x="-36.8" y="-29.7" style="fill: #231f20" width="26.1" height="22.6"/>
-    <rect opacity="0.9" transform="matrix(0.1,0,0,0.1,14.5,23.2)" x="-37.5" y="-37.1" style="fill: #231f20" width="72.1" height="52.6"/>
-    <rect opacity="0.9" transform="matrix(0.1,0,0,0.1,14.5,23.2)" x="-25.5" y="-26.1" style="fill: #9aa7b0" width="48.1" height="28.6"/>
-    <rect opacity="0.9" transform="matrix(0.1,0,0,0.1,16.5,27.2)" x="-37.5" y="-58.1" style="fill: #231f20" width="32.1" height="68.6"/>
-    <rect opacity="0.9" transform="matrix(0.1,0,0,0.1,17.5,28.2)" x="-37.5" y="-58.1" style="fill: #9aa7b0" width="12.1" height="48.6"/>
+    <rect opacity="0.9" transform="matrix(0.1,0,0,0.1,15.5,8.8)" x="-21.6" y="-14.5" style="fill: #231f20" width="26.1" height="22.6"/>
+    <rect opacity="0.9" transform="matrix(0.1,0,0,0.1,18.1,10.7)" x="-21.6" y="-14.5" style="fill: #231f20" width="26.1" height="22.6"/>
+    <rect opacity="0.9" transform="matrix(0.1,0,0,0.1,15.5,12.6)" x="-21.6" y="-14.5" style="fill: #231f20" width="26.1" height="22.6"/>
+    <rect opacity="0.9" transform="matrix(0.1,0,0,0.1,18.1,14.5)" x="-21.6" y="-14.5" style="fill: #231f20" width="26.1" height="22.6"/>
+    <rect opacity="0.9" transform="matrix(0.1,0,0,0.1,15.5,16.4)" x="-21.6" y="-14.5" style="fill: #231f20" width="26.1" height="22.6"/>
+    <rect opacity="0.9" transform="matrix(0.1,0,0,0.1,18.1,18.3)" x="-21.6" y="-14.5" style="fill: #231f20" width="26.1" height="22.6"/>
+    <rect opacity="0.9" transform="matrix(0.1,0,0,0.1,15.5,20.2)" x="-21.6" y="-14.5" style="fill: #231f20" width="26.1" height="22.6"/>
+    <rect opacity="0.9" transform="matrix(0.1,0,0,0.1,14.5,23.2)" x="-22.3" y="-21.9" style="fill: #231f20" width="72.1" height="52.6"/>
+    <rect opacity="0.9" transform="matrix(0.1,0,0,0.1,14.5,23.2)" x="-10.3" y="-10.9" style="fill: #9aa7b0" width="48.1" height="28.6"/>
+    <rect opacity="0.9" transform="matrix(0.1,0,0,0.1,16.5,27.2)" x="-22.3" y="-42.9" style="fill: #231f20" width="32.1" height="68.6"/>
+    <rect opacity="0.9" transform="matrix(0.1,0,0,0.1,17.5,28.2)" x="-22.3" y="-42.9" style="fill: #9aa7b0" width="12.1" height="48.6"/>
   </g>
 </svg>
