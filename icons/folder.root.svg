@@ -3,11 +3,10 @@
     <mask id="a">
       <path fill="#fff" d="M0 0h320v320H0z"/>
       <g fill="none" stroke="#000" stroke-linecap="square" stroke-width="20">
-        <path d="M100 100v120h60m-60-80h60"/>
-        <path d="M140 120h40v40h-40zm0 80h40v40h-40z" fill="#000"/>
+        <path d="M120 120v120h60m-60-80h60"/>
+        <path d="M170 140h40v40h-40zm0 80h40v40h-40z" fill="#000"/>
       </g>
     </mask>
   </defs>
-  <path fill="#bfbfbf" mask="url(#a)" d="M 0 70 h 280 v 220 H 0 z"/>
-  <path fill="none" stroke="#bfbfbf" stroke-width="20" d="M 10 80 l 0 -40 h 100 l 40 40"/>
+  <path fill="#7e8e99" stroke="#7e8e99" mask="url(#a)" stroke-width="20" d="M 10 30 h 110 l 40 40 h 150 v 230 H 10 z"/>
 </svg>

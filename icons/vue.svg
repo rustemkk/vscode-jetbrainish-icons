@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <path fill="#9aa7b0" opacity=".8" style="isolation: isolate" d="M 12 1 L 4 9 h 8 V 0 z"/>
-  <path fill="#9aa7b0" opacity=".8" style="isolation: isolate" d="M 13 1 v 9 H 4 v 7 h 24 V 1"/>
+  <path fill="#87939a" style="isolation: isolate" d="M 12 2 L 4 10 h 8 V 0 z"/>
+  <path fill="#87939a" style="isolation: isolate" d="M 13 2 v 9 H 4 v 6 h 24 V 2"/>
   <path fill="#41b883" opacity=".8" d="M 0 17 h 32 v 14 H 0 z"/>
   <text fill="#231f20" opacity=".8" x="1" y="29.4" font-family="PragmataPro" font-size="14" font-weight="600">
     VUE

@@ -1,6 +1,11 @@
+#### Version 2.0.3
+
+- Reduce height of all icons.
+- Dim too bright colors, rework folders & files colors.
+
 #### Version 2.0.2
 
-- Reduce top and bottom p[addings of all icons.
+- Reduce top and bottom paddings of all icons.
 - Add new npm icon.
 - Add new demo gif.
 
