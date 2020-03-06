@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
   <path fill="#87939a" style="isolation: isolate" d="M 12 2 L 4 10 h 8 V 0 z"/>
-  <path fill="#87939a" style="isolation: isolate" d="M 13 2 v 9 H 4 v 20 h 24 V 2"/>
-  <path d="M 9 14.7 h 14 v -2 H 9 v 2 z m 0 4 h 14 v -2 H 9 v 2 z m 0 4 h 14 v -2 H 9 v 2 z m 0 4 h 8 v -2 H 9 v 2 z" fill="#231f20" opacity=".6"/>
+  <path fill="#87939a" style="isolation: isolate" d="M 13.5 2 v 9.5 H 4 v 20 h 24 V 2"/>
+  <path fill="#3e464a" d="M 9 15.7 h 14 v -2 H 9 v 2 z m 0 4 h 14 v -2 H 9 v 2 z m 0 4 h 14 v -2 H 9 v 2 z m 0 4 h 8 v -2 H 9 v 2 z"/>
 </svg>

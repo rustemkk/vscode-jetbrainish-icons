@@ -1,3 +1,9 @@
+#### Version 2.0.4
+
+- Make file "paper" bend more visible.
+- Make app icons bigger and more visible on file "paper" background.
+- Add new demo gif.
+
 #### Version 2.0.3
 
 - Reduce height of all icons.

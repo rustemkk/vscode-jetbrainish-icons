@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
   <path fill="#87939a" style="isolation: isolate" d="M 12 2 L 4 10 h 8 V 0 z"/>
-  <path fill="#87939a" style="isolation: isolate" d="M 13 2 v 9 H 4 v 20 h 24 V 2"/>
+  <path fill="#87939a" style="isolation: isolate" d="M 13.5 2 v 9.5 H 4 v 20 h 24 V 2"/>
   <g transform="matrix(0.13,0,0,0.13,111.1,161.2)">
     <path fill="#ff5e35" stroke="#ff5e35" stroke-linejoin="round" stroke-width="20" d="M -688.9 -1144.5 l 70 70 l -70 70 l -70 -70 z"/>
     <path d="M -713 -1135 l 60 60 m -35 -35 v 70" stroke-width="12.5" stroke="#87939a"/>
